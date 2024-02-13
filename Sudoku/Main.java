@@ -1,6 +1,6 @@
 /*
 Fecha de inicio: 17/01/2024
-Fecha fin:
+Fecha fin: 13/02/2024
 Creado por: Ignasi Paredes Casasnovas
 
 Versión: 1.0
